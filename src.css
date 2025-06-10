@@ -1,3 +1,13 @@
+/**
+ * @name ginto
+ * @description  replaces discord's gg-sans library with ginto. 
+ * @author siliconoptics
+ * @authorId 389635653073240064
+ * @version 1
+ * @source https://github.com/siliconoptics/ginto
+ */
+
+
 @font-face {
   font-family: 'Ginto';
   src: url('https://cdn.jsdelivr.net/gh/siliconoptics/ginto/src/font/ginto/woff/Ginto-300.woff') format('woff');
