@@ -61,7 +61,7 @@
 
 /* nord */
 
-@font-face {
+/* @font-face {
   font-family: 'Ginto Nord';
   src: url('https://cdn.jsdelivr.net/gh/siliconoptics/ginto/src/font/ginto-nord/woff/Ginto-Nord-500.woff') format('woff');
   font-weight: 500;
@@ -79,7 +79,7 @@
   font-weight: 700;
   font-style: normal;
 }
-
+*/
 * {
   font-family: 'Ginto', 'Ginto Nord', sans-serif;
 }
